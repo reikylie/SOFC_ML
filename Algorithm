@@ -1,0 +1,8 @@
+#기본적인 모듈을 인스톨합니다.
+import pandas as pd
+import numpy as np
+import seaborn as sns
+import io
+from sklearn.model_selection import train_test_split
+from google.colab import files
+import matplotlib.pyplot as plt
